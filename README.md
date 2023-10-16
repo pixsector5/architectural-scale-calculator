@@ -1,11 +1,11 @@
 # architectural-scale-calculator
 The app that will help you calculate imperial and metric architectural scales
 
-**The formula for calculating architectural scale in imperial units: **
+**The formula for calculating architectural scale in imperial units:**
 
 This formula is used to convert measurements from one scale to another, where 1/4 inch on one scale represents 1 foot on another scale. This is often used in architectural or engineering drawings to represent real-world dimensions on a smaller scale.
 
-**Calculation: **
+**Calculation:**
 
 Scale Factor = 1 inch on the drawing / (12 inches in a foot * 1/4 inch on the drawing)
 
@@ -15,7 +15,7 @@ Scale Factor = 1 / (12 * 1/4) = 1 / (3) = 1/3
 
 This means that on the drawing, 1 inch represents 3 feet in the actual world. You can use this scale factor to convert measurements on the drawing to real-world measurements or vice versa. For example, if something is 2 inches long on the drawing, its actual length would be 2 inches * 3 feet per inch = 6 feet.
 
-**The formula for calculating architectural scale in metric units: **
+**The formula for calculating architectural scale in metric units:**
 
 To calculate the actual size of an object or distance from a scaled model or drawing at a 1:50 scale, you can use the following formula:
 
