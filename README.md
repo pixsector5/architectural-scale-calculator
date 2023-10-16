@@ -28,3 +28,6 @@ So, if you have a dimension on a drawing or model that is, for example, 5 centim
 Actual Size = 5 cm / 50 = 0.1 cm
 
 So, the actual size of the object or distance in this 1:50 scale drawing is 0.1 centimeters for every 1 centimeter on the drawing. This means that if you measure 5 centimeters on the drawing, it represents a real-world size of 0.1 centimeters.
+
+
+![great]([http://url/to/img.png](https://vectorization.eu/architectural-scale-calculator/img/architectural-scale-calculator.jpg)https://vectorization.eu/architectural-scale-calculator/img/architectural-scale-calculator.jpg)
